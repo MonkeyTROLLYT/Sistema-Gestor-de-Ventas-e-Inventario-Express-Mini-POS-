@@ -1,7 +1,7 @@
 # Sistema-Gestor-de-Ventas-e-Inventario-Express-Mini-POS-
 👤 Nombre del estudiante
 
-[Alan Padilla Alvear]
+Alan Padilla Alvear
 
 📋 Descripción del proyecto
 
