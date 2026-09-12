@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\bin\Debug\net8.0\PARCIAL.exe
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\bin\Debug\net8.0\PARCIAL.deps.json
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\bin\Debug\net8.0\PARCIAL.runtimeconfig.json
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\bin\Debug\net8.0\PARCIAL.dll
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\bin\Debug\net8.0\PARCIAL.pdb
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.AssemblyInfo.cs
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.dll
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\refint\PARCIAL.dll
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.pdb
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\PARCIAL.genruntimeconfig.cache
+C:\Users\Alan\source\repos\PARCIAL\PARCIAL\obj\Debug\net8.0\ref\PARCIAL.dll
